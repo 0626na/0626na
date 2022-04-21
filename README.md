@@ -16,6 +16,7 @@
   
   ### 연락처
   📧 0626na@gmail.com
+  
   📞 010 7377 6041
   
   ### Work Experience
