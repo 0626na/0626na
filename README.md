@@ -31,6 +31,10 @@
   제품개발부, 닷넷 개발자 
   
   - 닷넷 기반 제품 유지보수 및 신기능 개발
+
+  ### Personal Projects
+  - Develop Palette
+  
   
   ### Education
   - 선문대학교, 컴퓨터공학과 (2011.03 ~ 2017.02)
