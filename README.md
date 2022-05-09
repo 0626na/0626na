@@ -2,9 +2,18 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome!&fontAlignY=40&desc=Jin`s%20Profile&animation=fadeIn)
 
-  안녕하세요. 일본에서 약 3년간 닷넷개발자로 활동하다가 한국으로 돌아와 프론트엔드 개발자로 전향하려고 준비중인 한석진 입니다.
-  
-  잘부탁드립니다.
+안녕하세요.
+
+프론트엔드 개발자를 목표로 하고 있는 한석진입니다.
+일본에서 3년간 .NET 개발자로 활동했습니다. 한국에 돌아와서는 웹쪽으로 바꾸려고 열심히 준비중입니다.
+주요업무는 유지보수 및 자사제품의 기능 개선, 신 기능 개발 업무를 담당했습니다.
+ 
+제가 전향을 원하는 이유는 더 큰 성장을 원해서 입니다. 3년간 다닌 회사에서도 많은 경험을 할수 있었지만
+변함없는 반복 업무에 이대로는 정체된다는 느낌을 받아 이번에 한국으로 돌아와 다시 새롭게 시작하게 되었습니다.
+돌아온 후에는, html5/css3, javascript, react 를 학습 하면서 프론트엔드 개발자로 전향하기 위해 준비중입니다.
+
+
+잘 부탁드립니다.
   
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JINNY)](https://github.com/anuraghazra/github-readme-stats)
   
