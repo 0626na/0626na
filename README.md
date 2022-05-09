@@ -46,7 +46,11 @@
 
   ### Personal Projects
   - [Developer Palette](https://github.com/0626na/palette_clone)
+  
+  이미 존재하는 서비스를 빈페이지에서 그대로 클로닝한 프로젝트. 리액트를 활용하여 만들었습니다.
+
   - [Toilet Map](https://github.com/0626na/toilet_map)
+  
   - [Introduce Incheon](https://github.com/0626na/introduce_incheon)
   
   
