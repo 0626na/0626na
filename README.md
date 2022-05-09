@@ -33,7 +33,9 @@
   - 닷넷 기반 제품 유지보수 및 신기능 개발
 
   ### Personal Projects
-  - Develop Palette
+  - [Developer Palette](https://github.com/0626na/palette_clone)
+  - [Toilet Map](https://github.com/0626na/toilet_map)
+  - [Introduce Incheon](https://github.com/0626na/introduce_incheon)
   
   
   ### Education
