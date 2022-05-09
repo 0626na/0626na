@@ -8,6 +8,7 @@
   
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JINNY)](https://github.com/anuraghazra/github-readme-stats)
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0626na)](https://github.com/anuraghazra/github-readme-stats)
   ### 기술스택
   <div >
     <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
