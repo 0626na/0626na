@@ -47,13 +47,14 @@
   ### Personal Projects
   - [Developer Palette](https://github.com/0626na/palette_clone)
   
-  이미 존재하는 서비스를 빈페이지에서 그대로 클로닝한 프로젝트. 리액트를 활용하여 만들었습니다.
+  이미 존재하는 서비스를 빈페이지에서 그대로 클로닝한 프로젝트. (react, typescript)
 
   - [Toilet Map](https://github.com/0626na/toilet_map)
   
+  정부의 open api와 카카오맵 api를 활용하여 화장실을 표시하는 지도 프로젝트. (react,js) 
   - [Introduce Incheon](https://github.com/0626na/introduce_incheon)
   
-  
+  인천의 관광지, 맛집, 역사등을 간단히 소개하는 사이트 프로젝트. (html,css,js)
   ### Education
   - 선문대학교, 컴퓨터공학과 (2011.03 ~ 2017.02)
   
