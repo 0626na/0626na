@@ -1,7 +1,8 @@
 
  <img src="https://www.codewars.com/users/0626na/badges/small?theme=light" alt="codewars badge"/>
- [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=0626na)](https://solved.ac/0626na)
+<a herf="https://solved.ac/profile/0626na/", target="_blank">
+	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=0626na>
+</a>
 
   ## Korea
   - 2022.06~2023.02 거북선컴퍼니 / 프론트엔드 개발자
