@@ -4,6 +4,8 @@
 	<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=0626na>
 </a>
 
+# work experience
+
   ## Korea
   - 2022.06~2023.02 거북선컴퍼니 / 프론트엔드 개발자
   - 2023.03~ 이직중
