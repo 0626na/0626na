@@ -1,8 +1,6 @@
+[![codewars badge](https://www.codewars.com/users/0626na/badges/large?theme=light)](https://www.codewars.com/users/0626na/badges)
 
- <img src="https://www.codewars.com/users/0626na/badges/small?theme=light" alt="codewars badge"/>
-<a href="https://solved.ac/profile/0626na" target="_blank">
- <img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=0626na>
-</a>
+[![baekjoon badge](http://mazassumnida.wtf/api/v2/generate_badge?boj=0626na)](https://solved.ac/profile/0626na)
 
 # work experience
 
