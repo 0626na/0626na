@@ -1,7 +1,3 @@
-[![codewars badge](https://www.codewars.com/users/0626na/badges/small?theme=light)](https://www.codewars.com/users/0626na/badges)
-
-[![baekjoon badge](http://mazassumnida.wtf/api/v2/generate_badge?boj=0626na)](https://solved.ac/profile/0626na)
-
 # Contact
 E-mail: 0626na@gmail.com
 
@@ -73,6 +69,11 @@ B2B 솔루션 dbSheetClient 서비스 회사
 
 # Skill
 React, Javascript, Typescript, React-Query
+
+# Coding Skill
+[![codewars badge](https://www.codewars.com/users/0626na/badges/small?theme=light)](https://www.codewars.com/users/0626na/badges)
+
+[![baekjoon badge](http://mazassumnida.wtf/api/v2/generate_badge?boj=0626na)](https://solved.ac/profile/0626na)
 
 # language
 일본어
