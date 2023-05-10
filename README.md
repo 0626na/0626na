@@ -4,4 +4,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0626na)](https://github.com/anuraghazra/github-readme-stats)
 [![baekjoon badge](http://mazassumnida.wtf/api/v2/generate_badge?boj=0626na)](https://solved.ac/profile/0626na)
-![0626na's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=0626na)
+![유저이름's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=유저이름)
+
