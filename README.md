@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/865c4835-c28d-480d-8c1d-42f9ab5aee77.svg)](https://wakatime.com/@865c4835-c28d-480d-8c1d-42f9ab5aee77)
 
 ## ME?
-- I`m currently frontend developer
+- I`m currently frontend developer in Hiblocks
 - Previously, I was a .NET developer in Japan
 
 ## Rank
