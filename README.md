@@ -4,7 +4,7 @@
 
 
 ## 이력서
-- [resume](https://github.com/0626na/log/blob/0b15b1434052177ccfaa47674cede65bfe61445e/%EC%B7%A8%EC%97%85%EA%B4%80%EB%A0%A8%20%EC%84%9C%EB%A5%98/resume.md)
+- [resume](https://jeenie.craft.me/IEjfPjREKO8wPG)
 
 ## Insights
 - [Node.js 환경에서 Package.json 파일이 무엇인가?](https://jeenie.craft.me/Keip2oM9KqEdNJ)
