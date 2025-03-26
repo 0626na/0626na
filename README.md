@@ -3,8 +3,9 @@
 [![baekjoon badge](http://mazassumnida.wtf/api/v2/generate_badge?boj=0626na)](https://solved.ac/profile/0626na)
 
 
-## 이력서
+## Info
 - [resume](https://jeenie.craft.me/IEjfPjREKO8wPG)
+- [자기소개서](https://jeenie.craft.me/dQcNsQHWEUwaCF)
 
 ## Insights & knowledge
 - [Node.js 환경에서 Package.json 파일이 무엇인가?](https://jeenie.craft.me/Keip2oM9KqEdNJ)
