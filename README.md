@@ -8,6 +8,7 @@
 
 ## Insights
 - [Node.js 환경에서 Package.json 파일이 무엇인가?](https://jeenie.craft.me/Keip2oM9KqEdNJ)
+- [Javascript에서 Scope가 무엇인가?](https://jeenie.craft.me/rUyQ7kna421mFn)
 
 ## Interview
 🎙️ [nomadCoder Interview](https://nomadcoders.co/community/thread/5747)
