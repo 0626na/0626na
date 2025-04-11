@@ -14,6 +14,7 @@
 - [Two Pointers 알고리즘](https://jeenie.craft.me/0NQlizY0bXla4e)
 - [Floyd’s Tortoise and Hare Algorithm](https://jeenie.craft.me/jvC3twg3VTdb01)
 - [Tanstack Query를 왜 써야하나요?](https://jeenie.craft.me/n5be8QVVn6BwZS)
+- [Tanstack Query에서 Stale 한게 무엇인가요?](https://jeenie.craft.me/ZsQ9dKNTDLgMuE)
 
 ## Interview
 🎙️ [nomadCoder Interview](https://nomadcoders.co/community/thread/5747)
