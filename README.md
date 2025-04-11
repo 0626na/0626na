@@ -17,7 +17,7 @@
 - [Tanstack Query에서 Stale 한게 무엇인가요?](https://jeenie.craft.me/ZsQ9dKNTDLgMuE)
 - [실패 했을경우에는 Tanstack Query는 어떻게 하나요?](https://jeenie.craft.me/nExC25b0K4VMm6)
 - [Inactive 상태는 무엇인가요?](https://jeenie.craft.me/m6khg33NhpdA4R)
-
+- [Query라는게 무엇인가요?](https://jeenie.craft.me/aCY6TjDpTgWgj3)
 ## Interview
 🎙️ [nomadCoder Interview](https://nomadcoders.co/community/thread/5747)
 
